@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-30T15:35:16 IST" name="Default suite" finished-at="2020-12-30T15:36:18 IST" duration-ms="61936">
+    <groups>
+    </groups>
+    <test started-at="2020-12-30T15:35:16 IST" name="Default test" finished-at="2020-12-30T15:36:18 IST" duration-ms="61936">
+      <class name="sample.TestIntegration">
+        <test-method is-config="true" signature="setConfig()[pri:0, instance:sample.TestIntegration@7a419da4]" started-at="2020-12-30T15:35:16 IST" name="setConfig" finished-at="2020-12-30T15:35:16 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setConfig -->
+        <test-method is-config="true" signature="setBrowserCapabilities()[pri:0, instance:sample.TestIntegration@7a419da4]" started-at="2020-12-30T15:35:16 IST" name="setBrowserCapabilities" finished-at="2020-12-30T15:35:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowserCapabilities -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:sample.TestIntegration@7a419da4]" started-at="2020-12-30T15:35:17 IST" name="launchBrowser" finished-at="2020-12-30T15:35:36 IST" duration-ms="19043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="IntegrationToken(java.util.Map)[pri:0, instance:sample.TestIntegration@7a419da4]" started-at="2020-12-30T15:35:36 IST" name="IntegrationToken" description="C:\Users\manik.gupta\eclipse-workspace\POC_TestProject\src\main\resources\user_data.xlsx,Sheet1" data-provider="testdata" finished-at="2020-12-30T15:36:18 IST" duration-ms="42106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Manik@7435, subelement=Demo, element=Project, username=manikgupta33@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IntegrationToken -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sample.TestIntegration@7a419da4]" started-at="2020-12-30T15:36:18 IST" name="tearDown" finished-at="2020-12-30T15:36:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sample.TestIntegration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

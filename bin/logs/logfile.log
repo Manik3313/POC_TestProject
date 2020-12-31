@@ -1,0 +1,10 @@
+2020-12-30 17:07:58,899 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (04edb902ada1a25982a1e18ac663604d)] -> id: username]is displayed 
+2020-12-30 17:07:59,190 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (04edb902ada1a25982a1e18ac663604d)] -> id: password]is displayed 
+2020-12-30 17:07:59,440 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (04edb902ada1a25982a1e18ac663604d)] -> id: tp-sign-in]is displayed 
+2020-12-30 17:08:16,956 INFO  [ConsoleLog] Thread ID = 1  -- Homepage logo is displayed 
+2020-12-30 17:08:17,692 INFO  [ConsoleLog] Thread ID = 1  -- Status code: 409 
+2020-12-30 17:08:34,192 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (03994c219c7bb08aecaa92d644da1efc)] -> id: username]is displayed 
+2020-12-30 17:08:34,532 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (03994c219c7bb08aecaa92d644da1efc)] -> id: password]is displayed 
+2020-12-30 17:08:34,748 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (03994c219c7bb08aecaa92d644da1efc)] -> id: tp-sign-in]is displayed 
+2020-12-30 17:08:51,500 INFO  [ConsoleLog] Thread ID = 1  -- Homepage logo is displayed 
+2020-12-30 17:08:51,586 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (03994c219c7bb08aecaa92d644da1efc)] -> xpath: //div[@class='links']/a[contains(text(),'Integrations')]]is displayed 
